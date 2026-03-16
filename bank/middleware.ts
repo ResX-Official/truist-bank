@@ -6,15 +6,20 @@ import { createServerClient } from "@supabase/ssr";
 const handleI18nRouting = createMiddleware(routing);
 
 export async function middleware(request: NextRequest) {
-  // Run next-intl routing first
-  const response = handleI18nRouting(request);
+  let response: NextResponse;
+
+  try {
+    response = handleI18nRouting(request);
+  } catch {
+    response = NextResponse.next();
+  }
 
   // Refresh Supabase session and attach cookies to the response
   try {
-    const supabase = createServerClient(
-      process.env.NEXT_PUBLIC_SUPABASE_URL!,
-      process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!,
-      {
+    const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL;
+    const supabaseKey = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY;
+    if (supabaseUrl && supabaseKey) {
+      const supabase = createServerClient(supabaseUrl, supabaseKey, {
         cookies: {
           getAll() {
             return request.cookies.getAll();
@@ -25,10 +30,9 @@ export async function middleware(request: NextRequest) {
             );
           },
         },
-      }
-    );
-    // getSession reads from cookie (no network call unless token needs refresh)
-    await supabase.auth.getSession();
+      });
+      await supabase.auth.getSession();
+    }
   } catch {
     // Supabase not configured — skip session refresh
   }
