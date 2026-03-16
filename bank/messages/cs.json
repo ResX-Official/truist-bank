@@ -1,0 +1,46 @@
+{
+  "app": {"name": "Truist Bank"},
+  "nav": {"features": "Funkce", "login": "Přihlásit se", "register": "Začít"},
+  "landing": {
+    "hero": {
+      "badge": "Důvěřuje nám 2,4M+ zákazníků",
+      "title": "Bankovnictví Vytvořené pro",
+      "titleHighlight": "Vaši Budoucnost",
+      "subtitle": "Zažijte další generaci digitálního bankovnictví. Bezpečné, okamžité a navržené kolem vašeho života.",
+      "cta": "Otevřít Bezplatný Účet",
+      "ctaSecondary": "Podívejte se, jak to funguje",
+      "stats": {
+        "users": "Aktivní Uživatelé",
+        "volume": "Zpracováno Denně",
+        "uptime": "Dostupnost",
+        "countries": "Země"
+      }
+    },
+    "features": {
+      "title": "Vše co potřebujete, nic co nepotřebujete",
+      "subtitle": "Vytvořeno pro rychlost, bezpečnost a jednoduchost"
+    },
+    "pricing": {
+      "title": "Jednoduché, transparentní ceny",
+      "subtitle": "Žádné skryté poplatky. Žádná překvapení.",
+      "monthly": "Měsíčně",
+      "annually": "Ročně",
+      "save": "Ušetřete 20%",
+      "getStarted": "Začít",
+      "mostPopular": "Nejoblíbenější"
+    },
+    "security": {
+      "title": "Bankovní úroveň zabezpečení, vždy",
+      "subtitle": "Vaše peníze a data jsou chráněny na každé úrovni"
+    },
+    "cta": {
+      "title": "Připraveni převzít kontrolu nad svými penězi?",
+      "subtitle": "Přidejte se k milionům, kteří svěřují své finance Truist Bank",
+      "button": "Vytvořit Bezplatný Účet"
+    },
+    "footer": {
+      "tagline": "Budoucnost bankovnictví, dnes.",
+      "rights": "Všechna práva vyhrazena."
+    }
+  }
+}

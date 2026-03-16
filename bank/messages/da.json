@@ -1,0 +1,46 @@
+{
+  "app": {"name": "Truist Bank"},
+  "nav": {"features": "Funktioner", "login": "Log ind", "register": "Kom i gang"},
+  "landing": {
+    "hero": {
+      "badge": "Betroet af 2,4M+ kunder",
+      "title": "Bankvirksomhed Bygget til",
+      "titleHighlight": "Din Fremtid",
+      "subtitle": "Oplev næste generation af digital bankvirksomhed. Sikker, øjeblikkelig og designet omkring dit liv.",
+      "cta": "Åbn Gratis Konto",
+      "ctaSecondary": "Se Hvordan Det Virker",
+      "stats": {
+        "users": "Aktive Brugere",
+        "volume": "Behandles Dagligt",
+        "uptime": "Oppetid",
+        "countries": "Lande"
+      }
+    },
+    "features": {
+      "title": "Alt hvad du har brug for, intet du ikke har brug for",
+      "subtitle": "Bygget til hastighed, sikkerhed og enkelhed"
+    },
+    "pricing": {
+      "title": "Enkel, gennemsigtig prissætning",
+      "subtitle": "Ingen skjulte gebyrer. Ingen overraskelser.",
+      "monthly": "Månedligt",
+      "annually": "Årligt",
+      "save": "Spar 20%",
+      "getStarted": "Kom i gang",
+      "mostPopular": "Mest Populær"
+    },
+    "security": {
+      "title": "Bankniveau sikkerhed, altid",
+      "subtitle": "Dine penge og data er beskyttet i hvert lag"
+    },
+    "cta": {
+      "title": "Klar til at tage kontrol over dine penge?",
+      "subtitle": "Tilslut dig millioner der stoler på Truist Bank med deres økonomi",
+      "button": "Opret Gratis Konto"
+    },
+    "footer": {
+      "tagline": "Fremtidens bankvirksomhed, i dag.",
+      "rights": "Alle rettigheder forbeholdes."
+    }
+  }
+}

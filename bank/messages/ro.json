@@ -1,0 +1,46 @@
+{
+  "app": {"name": "Truist Bank"},
+  "nav": {"features": "Caracteristici", "login": "Autentificare", "register": "Începe"},
+  "landing": {
+    "hero": {
+      "badge": "De încredere pentru 2,4M+ clienți",
+      "title": "Servicii Bancare Construite pentru",
+      "titleHighlight": "Viitorul Tău",
+      "subtitle": "Experimentați următoarea generație de servicii bancare digitale. Sigur, instant și conceput în jurul vieții tale.",
+      "cta": "Deschide Cont Gratuit",
+      "ctaSecondary": "Vezi Cum Funcționează",
+      "stats": {
+        "users": "Utilizatori Activi",
+        "volume": "Procesate Zilnic",
+        "uptime": "Disponibilitate",
+        "countries": "Țări"
+      }
+    },
+    "features": {
+      "title": "Tot ce ai nevoie, nimic ce nu ai nevoie",
+      "subtitle": "Construit pentru viteză, securitate și simplitate"
+    },
+    "pricing": {
+      "title": "Prețuri simple și transparente",
+      "subtitle": "Fără taxe ascunse. Fără surprize.",
+      "monthly": "Lunar",
+      "annually": "Anual",
+      "save": "Economisește 20%",
+      "getStarted": "Începe",
+      "mostPopular": "Cel Mai Popular"
+    },
+    "security": {
+      "title": "Securitate la nivel bancar, întotdeauna",
+      "subtitle": "Banii și datele tale sunt protejate la fiecare nivel"
+    },
+    "cta": {
+      "title": "Gata să preiei controlul banilor tăi?",
+      "subtitle": "Alătură-te milioanelor care au încredere în Truist Bank cu finanțele lor",
+      "button": "Creează Cont Gratuit"
+    },
+    "footer": {
+      "tagline": "Viitorul serviciilor bancare, astăzi.",
+      "rights": "Toate drepturile rezervate."
+    }
+  }
+}

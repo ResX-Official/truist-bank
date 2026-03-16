@@ -1,0 +1,46 @@
+{
+  "app": {"name": "Truist Bank"},
+  "nav": {"features": "Functies", "login": "Inloggen", "register": "Beginnen"},
+  "landing": {
+    "hero": {
+      "badge": "Vertrouwd door 2,4M+ klanten",
+      "title": "Bankieren Gebouwd voor",
+      "titleHighlight": "Jouw Toekomst",
+      "subtitle": "Ervaar de volgende generatie digitaal bankieren. Veilig, direct en ontworpen rond jouw leven.",
+      "cta": "Gratis Account Openen",
+      "ctaSecondary": "Bekijk Hoe Het Werkt",
+      "stats": {
+        "users": "Actieve Gebruikers",
+        "volume": "Dagelijks Verwerkt",
+        "uptime": "Uptime",
+        "countries": "Landen"
+      }
+    },
+    "features": {
+      "title": "Alles wat je nodig hebt, niets wat je niet nodig hebt",
+      "subtitle": "Gebouwd voor snelheid, veiligheid en eenvoud"
+    },
+    "pricing": {
+      "title": "Eenvoudige, transparante prijzen",
+      "subtitle": "Geen verborgen kosten. Geen verrassingen.",
+      "monthly": "Maandelijks",
+      "annually": "Jaarlijks",
+      "save": "Bespaar 20%",
+      "getStarted": "Aan de slag",
+      "mostPopular": "Meest Populair"
+    },
+    "security": {
+      "title": "Bankwaardige beveiliging, altijd",
+      "subtitle": "Jouw geld en gegevens zijn op elk niveau beschermd"
+    },
+    "cta": {
+      "title": "Klaar om de controle over jouw geld te nemen?",
+      "subtitle": "Sluit je aan bij miljoenen die Truist Bank vertrouwen met hun financiën",
+      "button": "Gratis Account Aanmaken"
+    },
+    "footer": {
+      "tagline": "De toekomst van bankieren, vandaag.",
+      "rights": "Alle rechten voorbehouden."
+    }
+  }
+}

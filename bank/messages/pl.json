@@ -1,0 +1,46 @@
+{
+  "app": {"name": "Truist Bank"},
+  "nav": {"features": "Funkcje", "login": "Zaloguj się", "register": "Zacznij"},
+  "landing": {
+    "hero": {
+      "badge": "Zaufało nam ponad 2,4 mln klientów",
+      "title": "Bankowość Stworzona dla",
+      "titleHighlight": "Twojej Przyszłości",
+      "subtitle": "Poznaj nową generację bankowości cyfrowej. Bezpieczna, natychmiastowa i zaprojektowana wokół Twojego życia.",
+      "cta": "Otwórz Darmowe Konto",
+      "ctaSecondary": "Zobacz Jak To Działa",
+      "stats": {
+        "users": "Aktywni Użytkownicy",
+        "volume": "Przetwarzane Dziennie",
+        "uptime": "Dostępność",
+        "countries": "Kraje"
+      }
+    },
+    "features": {
+      "title": "Wszystko czego potrzebujesz, nic czego nie potrzebujesz",
+      "subtitle": "Zbudowane dla szybkości, bezpieczeństwa i prostoty"
+    },
+    "pricing": {
+      "title": "Proste, przejrzyste ceny",
+      "subtitle": "Bez ukrytych opłat. Bez niespodzianek.",
+      "monthly": "Miesięcznie",
+      "annually": "Rocznie",
+      "save": "Oszczędź 20%",
+      "getStarted": "Zacznij",
+      "mostPopular": "Najpopularniejszy"
+    },
+    "security": {
+      "title": "Bezpieczeństwo bankowe, zawsze",
+      "subtitle": "Twoje pieniądze i dane są chronione na każdym poziomie"
+    },
+    "cta": {
+      "title": "Gotowy przejąć kontrolę nad swoimi pieniędzmi?",
+      "subtitle": "Dołącz do milionów, którzy ufają Truist Bank swoimi finansami",
+      "button": "Utwórz Darmowe Konto"
+    },
+    "footer": {
+      "tagline": "Przyszłość bankowości, dziś.",
+      "rights": "Wszelkie prawa zastrzeżone."
+    }
+  }
+}

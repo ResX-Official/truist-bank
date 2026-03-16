@@ -1,0 +1,46 @@
+{
+  "app": {"name": "Truist Bank"},
+  "nav": {"features": "Funkciók", "login": "Bejelentkezés", "register": "Kezdés"},
+  "landing": {
+    "hero": {
+      "badge": "2,4 millió+ ügyfél bizalmát élvezi",
+      "title": "Bankszolgáltatás Felépítve",
+      "titleHighlight": "Az Ön Jövőjéhez",
+      "subtitle": "Tapasztalja meg a digitális bankolás következő generációját. Biztonságos, azonnali és az Ön életéhez tervezve.",
+      "cta": "Ingyenes Számlanyitás",
+      "ctaSecondary": "Nézze Meg Hogyan Működik",
+      "stats": {
+        "users": "Aktív Felhasználók",
+        "volume": "Napi Feldolgozás",
+        "uptime": "Üzemidő",
+        "countries": "Országok"
+      }
+    },
+    "features": {
+      "title": "Minden amire szüksége van, semmi ami nem kell",
+      "subtitle": "Sebességre, biztonságra és egyszerűségre tervezve"
+    },
+    "pricing": {
+      "title": "Egyszerű, átlátható árazás",
+      "subtitle": "Nincsenek rejtett díjak. Nincsenek meglepetések.",
+      "monthly": "Havonta",
+      "annually": "Évente",
+      "save": "Spóroljon 20%-ot",
+      "getStarted": "Kezdés",
+      "mostPopular": "Legnépszerűbb"
+    },
+    "security": {
+      "title": "Banki szintű biztonság, mindig",
+      "subtitle": "Pénze és adatai minden szinten védve vannak"
+    },
+    "cta": {
+      "title": "Készen áll átvenni az irányítást pénze felett?",
+      "subtitle": "Csatlakozzon a milliókhoz, akik a Truist Bankra bízzák pénzügyeiket",
+      "button": "Ingyenes Fiók Létrehozása"
+    },
+    "footer": {
+      "tagline": "A bankolás jövője, ma.",
+      "rights": "Minden jog fenntartva."
+    }
+  }
+}

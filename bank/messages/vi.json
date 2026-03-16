@@ -1,0 +1,46 @@
+{
+  "app": {"name": "Truist Bank"},
+  "nav": {"features": "Tính năng", "login": "Đăng nhập", "register": "Bắt đầu"},
+  "landing": {
+    "hero": {
+      "badge": "Được tin tưởng bởi hơn 2,4 triệu khách hàng",
+      "title": "Ngân Hàng Được Xây Dựng Cho",
+      "titleHighlight": "Tương Lai Của Bạn",
+      "subtitle": "Trải nghiệm thế hệ tiếp theo của ngân hàng kỹ thuật số. An toàn, tức thì và được thiết kế xung quanh cuộc sống của bạn.",
+      "cta": "Mở Tài Khoản Miễn Phí",
+      "ctaSecondary": "Xem Cách Hoạt Động",
+      "stats": {
+        "users": "Người Dùng Hoạt Động",
+        "volume": "Xử Lý Hàng Ngày",
+        "uptime": "Thời Gian Hoạt Động",
+        "countries": "Quốc Gia"
+      }
+    },
+    "features": {
+      "title": "Mọi thứ bạn cần, không có gì thừa",
+      "subtitle": "Được xây dựng cho tốc độ, bảo mật và sự đơn giản"
+    },
+    "pricing": {
+      "title": "Định giá đơn giản, minh bạch",
+      "subtitle": "Không phí ẩn. Không bất ngờ.",
+      "monthly": "Hàng Tháng",
+      "annually": "Hàng Năm",
+      "save": "Tiết Kiệm 20%",
+      "getStarted": "Bắt Đầu",
+      "mostPopular": "Phổ Biến Nhất"
+    },
+    "security": {
+      "title": "Bảo mật cấp ngân hàng, luôn luôn",
+      "subtitle": "Tiền và dữ liệu của bạn được bảo vệ ở mọi cấp độ"
+    },
+    "cta": {
+      "title": "Sẵn sàng kiểm soát tiền của bạn?",
+      "subtitle": "Tham gia hàng triệu người tin tưởng Truist Bank với tài chính của họ",
+      "button": "Tạo Tài Khoản Miễn Phí"
+    },
+    "footer": {
+      "tagline": "Tương lai của ngân hàng, hôm nay.",
+      "rights": "Đã đăng ký bản quyền."
+    }
+  }
+}

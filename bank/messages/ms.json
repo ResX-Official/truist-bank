@@ -1,0 +1,46 @@
+{
+  "app": {"name": "Truist Bank"},
+  "nav": {"features": "Ciri-ciri", "login": "Log Masuk", "register": "Mulakan"},
+  "landing": {
+    "hero": {
+      "badge": "Dipercayai oleh 2.4 juta+ pelanggan",
+      "title": "Perbankan Dibina untuk",
+      "titleHighlight": "Masa Depan Anda",
+      "subtitle": "Alami generasi seterusnya perbankan digital. Selamat, segera dan direka bentuk sekitar kehidupan anda.",
+      "cta": "Buka Akaun Percuma",
+      "ctaSecondary": "Lihat Cara Ia Berfungsi",
+      "stats": {
+        "users": "Pengguna Aktif",
+        "volume": "Diproses Setiap Hari",
+        "uptime": "Masa Beroperasi",
+        "countries": "Negara"
+      }
+    },
+    "features": {
+      "title": "Semua yang anda perlukan, tiada yang tidak anda perlukan",
+      "subtitle": "Dibina untuk kelajuan, keselamatan dan kesederhanaan"
+    },
+    "pricing": {
+      "title": "Harga yang mudah dan telus",
+      "subtitle": "Tiada caj tersembunyi. Tiada kejutan.",
+      "monthly": "Bulanan",
+      "annually": "Tahunan",
+      "save": "Jimat 20%",
+      "getStarted": "Mulakan",
+      "mostPopular": "Paling Popular"
+    },
+    "security": {
+      "title": "Keselamatan tahap bank, sentiasa",
+      "subtitle": "Wang dan data anda dilindungi di setiap lapisan"
+    },
+    "cta": {
+      "title": "Bersedia untuk mengawal wang anda?",
+      "subtitle": "Sertai jutaan yang mempercayai Truist Bank dengan kewangan mereka",
+      "button": "Cipta Akaun Percuma"
+    },
+    "footer": {
+      "tagline": "Masa depan perbankan, hari ini.",
+      "rights": "Hak cipta terpelihara."
+    }
+  }
+}

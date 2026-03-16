@@ -1,0 +1,46 @@
+{
+  "app": {"name": "Truist Bank"},
+  "nav": {"features": "Ominaisuudet", "login": "Kirjaudu", "register": "Aloita"},
+  "landing": {
+    "hero": {
+      "badge": "2,4M+ asiakkaan luottama",
+      "title": "Pankkitoiminta Rakennettu",
+      "titleHighlight": "Tulevaisuuttasi Varten",
+      "subtitle": "Koe digitaalisen pankkitoiminnan uusi sukupolvi. Turvallinen, välitön ja suunniteltu elämäsi ympärille.",
+      "cta": "Avaa Ilmainen Tili",
+      "ctaSecondary": "Katso Miten Se Toimii",
+      "stats": {
+        "users": "Aktiiviset Käyttäjät",
+        "volume": "Käsitellään Päivittäin",
+        "uptime": "Käyttöaika",
+        "countries": "Maat"
+      }
+    },
+    "features": {
+      "title": "Kaikki mitä tarvitset, ei mitään mitä et tarvitse",
+      "subtitle": "Rakennettu nopeudelle, turvallisuudelle ja yksinkertaisuudelle"
+    },
+    "pricing": {
+      "title": "Yksinkertainen, läpinäkyvä hinnoittelu",
+      "subtitle": "Ei piilomaksuja. Ei yllätyksiä.",
+      "monthly": "Kuukausittain",
+      "annually": "Vuosittain",
+      "save": "Säästä 20%",
+      "getStarted": "Aloita",
+      "mostPopular": "Suosituin"
+    },
+    "security": {
+      "title": "Pankkitason turvallisuus, aina",
+      "subtitle": "Rahasi ja tietosi on suojattu joka tasolla"
+    },
+    "cta": {
+      "title": "Valmis ottamaan rahasi hallintaan?",
+      "subtitle": "Liity miljooniin, jotka luottavat Truist Bankiin taloutensa kanssa",
+      "button": "Luo Ilmainen Tili"
+    },
+    "footer": {
+      "tagline": "Pankkitoiminnan tulevaisuus, tänään.",
+      "rights": "Kaikki oikeudet pidätetään."
+    }
+  }
+}

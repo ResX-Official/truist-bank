@@ -1,0 +1,46 @@
+{
+  "app": {"name": "Truist Bank"},
+  "nav": {"features": "Özellikler", "login": "Giriş Yap", "register": "Başla"},
+  "landing": {
+    "hero": {
+      "badge": "2,4 milyondan fazla müşteri tarafından güvenilir",
+      "title": "Geleceğiniz İçin",
+      "titleHighlight": "Tasarlanmış Bankacılık",
+      "subtitle": "Dijital bankacılığın yeni nesliyle tanışın. Güvenli, anında ve hayatınıza göre tasarlanmış.",
+      "cta": "Ücretsiz Hesap Aç",
+      "ctaSecondary": "Nasıl Çalıştığını Gör",
+      "stats": {
+        "users": "Aktif Kullanıcılar",
+        "volume": "Günlük İşlenen",
+        "uptime": "Çalışma Süresi",
+        "countries": "Ülkeler"
+      }
+    },
+    "features": {
+      "title": "İhtiyacınız olan her şey, gerekmeyenler hariç",
+      "subtitle": "Hız, güvenlik ve sadelik için inşa edildi"
+    },
+    "pricing": {
+      "title": "Basit, şeffaf fiyatlandırma",
+      "subtitle": "Gizli ücret yok. Sürpriz yok.",
+      "monthly": "Aylık",
+      "annually": "Yıllık",
+      "save": "%20 Tasarruf Et",
+      "getStarted": "Başla",
+      "mostPopular": "En Popüler"
+    },
+    "security": {
+      "title": "Her zaman banka düzeyinde güvenlik",
+      "subtitle": "Paranız ve verileriniz her katmanda korunur"
+    },
+    "cta": {
+      "title": "Paranızın kontrolünü almaya hazır mısınız?",
+      "subtitle": "Truist Bank'a finanslarını emanet eden milyonlara katılın",
+      "button": "Ücretsiz Hesap Oluştur"
+    },
+    "footer": {
+      "tagline": "Bankacılığın geleceği, bugün.",
+      "rights": "Tüm hakları saklıdır."
+    }
+  }
+}
