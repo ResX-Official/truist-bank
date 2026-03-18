@@ -5,7 +5,7 @@ import { useTranslations } from "next-intl";
 const TESTIMONIALS = [
   {
     quote:
-      "Switched from my old bank 8 months ago and I'm never going back. The AI savings alone has helped me put away $4,200 I wouldn't have saved otherwise. Truist Bank is in a different league.",
+      "Switched from my old bank 8 months ago and I'm never going back. The AI savings alone has helped me put away $4,200 I wouldn't have saved otherwise. Trust Bank is in a different league.",
     name: "Priya Nair",
     role: "Product Designer",
     location: "San Francisco, CA",
@@ -15,7 +15,7 @@ const TESTIMONIALS = [
   },
   {
     quote:
-      "I run a business across 3 countries. Sending international payments used to take 3–5 days with crazy fees. Truist Bank does it in seconds with a real exchange rate. Literally life-changing.",
+      "I run a business across 3 countries. Sending international payments used to take 3–5 days with crazy fees. Trust Bank does it in seconds with a real exchange rate. Literally life-changing.",
     name: "Marcus Steele",
     role: "Founder & CEO",
     location: "London, UK",
@@ -25,7 +25,7 @@ const TESTIMONIALS = [
   },
   {
     quote:
-      "The fraud detection is incredible. My old card got compromised twice in a year. I've been with Truist Bank for 14 months — not a single issue. Their team caught something suspicious even before I did.",
+      "The fraud detection is incredible. My old card got compromised twice in a year. I've been with Trust Bank for 14 months — not a single issue. Their team caught something suspicious even before I did.",
     name: "Aaliya Hassan",
     role: "Software Engineer",
     location: "Toronto, CA",
@@ -135,7 +135,7 @@ export default function Testimonials() {
           </div>
           <div className="w-px h-4 bg-white/10" />
           <div className="text-white/40 text-sm">
-            <strong className="text-white">97%</strong> of customers recommend Truist Bank
+            <strong className="text-white">97%</strong> of customers recommend Trust Bank
           </div>
         </div>
       </div>

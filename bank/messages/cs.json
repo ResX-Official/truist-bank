@@ -1,5 +1,5 @@
 {
-  "app": {"name": "Truist Bank"},
+  "app": {"name": "Trust Bank"},
   "nav": {"features": "Funkce", "login": "Přihlásit se", "register": "Začít"},
   "landing": {
     "hero": {
@@ -35,7 +35,7 @@
     },
     "cta": {
       "title": "Připraveni převzít kontrolu nad svými penězi?",
-      "subtitle": "Přidejte se k milionům, kteří svěřují své finance Truist Bank",
+      "subtitle": "Přidejte se k milionům, kteří svěřují své finance Trust Bank",
       "button": "Vytvořit Bezplatný Účet"
     },
     "footer": {

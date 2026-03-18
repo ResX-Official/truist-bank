@@ -18,10 +18,10 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Truist Bank — Banking Reimagined",
+  title: "Trust Bank — Banking Reimagined",
   description:
     "Experience the future of finance. Secure, instant banking with seamless transfers, AI-powered insights, and wealth management built for your ambitions.",
-  keywords: ["banking", "fintech", "digital bank", "online banking", "Truist Bank"],
+  keywords: ["banking", "fintech", "digital bank", "online banking", "Trust Bank"],
 };
 
 const RTL_LOCALES = ["ar", "he"];

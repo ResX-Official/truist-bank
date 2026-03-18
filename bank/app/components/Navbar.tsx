@@ -41,7 +41,7 @@ export default function Navbar() {
             <Building2 size={18} className="text-white" />
           </div>
           <span className="font-sora font-bold text-lg text-white">
-            Truist Bank
+            Trust Bank
           </span>
         </a>
 

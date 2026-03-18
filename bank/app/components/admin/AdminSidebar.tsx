@@ -43,7 +43,7 @@ export default function AdminSidebar({ onClose }: { onClose?: () => void }) {
             <Shield size={16} className="text-white" />
           </div>
           <div>
-            <div className="font-sora font-bold text-white text-[13px] leading-tight">Truist Bank</div>
+            <div className="font-sora font-bold text-white text-[13px] leading-tight">Trust Bank</div>
             <div className="text-[9px] font-bold text-red-400 uppercase tracking-widest">Admin</div>
           </div>
         </Link>

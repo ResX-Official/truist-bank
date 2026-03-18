@@ -3,7 +3,7 @@ import { useScrollReveal } from "../hooks/useScrollReveal";
 
 const TESTIMONIALS = [
   {
-    quote: "Having all my accounts — checking, savings, and investments — in one clean dashboard is something I didn't know I needed until I tried Truist.",
+    quote: "Having all my accounts — checking, savings, and investments — in one clean dashboard is something I didn't know I needed until I tried Trust.",
     name: "Marcus T.",
     role: "Freelance Designer",
     initials: "MT",
@@ -11,7 +11,7 @@ const TESTIMONIALS = [
     accentColor: "#4895EF",
   },
   {
-    quote: "Sending money to clients used to be a hassle. With Truist I just enter their email and it's done. The transfer history is clean and always accurate.",
+    quote: "Sending money to clients used to be a hassle. With Trust I just enter their email and it's done. The transfer history is clean and always accurate.",
     name: "Priya S.",
     role: "Small Business Owner",
     initials: "PS",

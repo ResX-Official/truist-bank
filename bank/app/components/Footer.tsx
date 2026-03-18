@@ -64,7 +64,7 @@ export default function Footer() {
                   <polyline points="9 22 9 12 15 12 15 22"/>
                 </svg>
               </div>
-              <span className="font-sora font-bold text-lg text-white">Truist Bank</span>
+              <span className="font-sora font-bold text-lg text-white">Trust Bank</span>
             </a>
 
             <p className="text-white/40 text-sm leading-relaxed max-w-[240px] mb-6">
@@ -109,7 +109,7 @@ export default function Footer() {
         {/* Bottom bar */}
         <div className="line-gradient mb-6" />
         <div className="flex flex-col sm:flex-row items-center justify-between gap-4 text-white/25 text-xs">
-          <div>© {new Date().getFullYear()} Truist Bank. {t("rights")}</div>
+          <div>© {new Date().getFullYear()} Trust Bank. {t("rights")}</div>
           <div className="flex items-center gap-6">
             <a href="#" className="hover:text-white/60 transition-colors">Privacy</a>
             <a href="#" className="hover:text-white/60 transition-colors">Terms</a>

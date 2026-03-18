@@ -135,8 +135,8 @@ CREATE TABLE IF NOT EXISTS admin_credentials (
 -- RLS: No public access — only service role key can read/write
 ALTER TABLE admin_credentials ENABLE ROW LEVEL SECURITY;
 
--- Insert default: username=Truist, password=truist@2026
--- SHA-256("truist@2026") = 31cd1485ab3b238613f571fee68f91de40baa3e254fc8787e1901f99dbf1c312
+-- Insert default: username=Trust, password=trust@2026
+-- SHA-256("trust@2026") = 31cd1485ab3b238613f571fee68f91de40baa3e254fc8787e1901f99dbf1c312
 INSERT INTO admin_credentials (id, username, password_hash)
-VALUES (1, 'Truist', '31cd1485ab3b238613f571fee68f91de40baa3e254fc8787e1901f99dbf1c312')
+VALUES (1, 'Trust', '31cd1485ab3b238613f571fee68f91de40baa3e254fc8787e1901f99dbf1c312')
 ON CONFLICT (id) DO NOTHING;

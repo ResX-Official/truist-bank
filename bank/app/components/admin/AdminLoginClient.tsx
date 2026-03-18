@@ -37,7 +37,7 @@ export default function AdminLoginClient({ locale }: { locale: string }) {
             <Shield size={28} className="text-white" />
           </div>
           <h1 className="font-sora font-bold text-white text-2xl">Admin Portal</h1>
-          <p className="text-white/35 text-sm mt-1">Truist Bank — Restricted Access</p>
+          <p className="text-white/35 text-sm mt-1">Trust Bank — Restricted Access</p>
         </div>
 
         <form onSubmit={handleSubmit}>

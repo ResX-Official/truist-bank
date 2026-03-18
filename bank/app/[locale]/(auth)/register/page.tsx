@@ -94,7 +94,7 @@ export default function RegisterPage() {
           >
             <Building2 size={18} className="text-white" />
           </div>
-          <span className="font-sora font-bold text-white text-xl">Truist Bank</span>
+          <span className="font-sora font-bold text-white text-xl">Trust Bank</span>
         </Link>
         <h1 className="font-sora font-bold text-white text-2xl mb-2">{t("title")}</h1>
         <p className="text-white/40 text-sm">{t("subtitle")}</p>

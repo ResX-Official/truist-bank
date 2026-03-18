@@ -1,6 +1,6 @@
 {
   "app": {
-    "name": "Truist Bank",
+    "name": "Trust Bank",
     "tagline": "Banking redefined for the modern world"
   },
   "nav": {
@@ -16,7 +16,7 @@
   "auth": {
     "login": {
       "title": "Welcome back",
-      "subtitle": "Sign in to your Truist Bank account",
+      "subtitle": "Sign in to your Trust Bank account",
       "email": "Email address",
       "password": "Password",
       "forgot": "Forgot password?",
@@ -28,7 +28,7 @@
     },
     "register": {
       "title": "Create your account",
-      "subtitle": "Join millions banking with Truist",
+      "subtitle": "Join millions banking with Trust",
       "name": "Full name",
       "email": "Email address",
       "password": "Password",
@@ -367,7 +367,7 @@
     },
     "cta": {
       "title": "Ready to take control of your money?",
-      "subtitle": "Join millions who trust Truist Bank with their finances",
+      "subtitle": "Join millions who trust Trust Bank with their finances",
       "button": "Create Free Account"
     },
     "footer": {
@@ -399,15 +399,15 @@
     "faq": {
       "title": "Everything you need to know",
       "subtitle": "Have more questions? Chat with our support team.",
-      "q1": "Is Truist Bank a real bank?",
-      "a1": "Yes. Truist Bank is a fully licensed digital bank. Your deposits are FDIC-insured up to $250,000 and we comply with all applicable financial regulations.",
+      "q1": "Is Trust Bank a real bank?",
+      "a1": "Yes. Trust Bank is a fully licensed digital bank. Your deposits are FDIC-insured up to $250,000 and we comply with all applicable financial regulations.",
       "q2": "How quickly can I open an account?",
       "a2": "Most accounts are opened in under 3 minutes. Just provide your email, set a password, and you're in. No paperwork, no branch visit.",
       "q3": "Are my funds safe?",
       "a3": "Absolutely. All deposits are FDIC insured up to $250,000. We use 256-bit AES encryption and real-time fraud monitoring to keep your money safe.",
       "q4": "What countries do you support?",
       "a4": "We currently support customers in 50+ countries, with full multi-currency support and international transfers at real exchange rates.",
-      "q5": "Can I use Truist Bank for my business?",
+      "q5": "Can I use Trust Bank for my business?",
       "a5": "Yes! Our Business plan includes unlimited accounts, team cards, advanced analytics, and dedicated support. Contact sales to get started.",
       "q6": "How do I contact support?",
       "a6": "Our support team is available 24/7 via in-app chat. Premium and Business customers get priority responses within 2 hours."
@@ -423,7 +423,7 @@
       "badge": "Mobile App",
       "title": "Banking that fits",
       "titleHighlight": "in your pocket",
-      "subtitle": "The Truist Bank app is designed for how you actually live — fast, intuitive, and always in your pocket. Available on iOS and Android.",
+      "subtitle": "The Trust Bank app is designed for how you actually live — fast, intuitive, and always in your pocket. Available on iOS and Android.",
       "downloadOn": "Download on the",
       "getItOn": "Get it on",
       "f1Title": "Instant Notifications",
@@ -436,11 +436,11 @@
       "f4Desc": "Wire money to 180+ countries right from your phone."
     },
     "cardShowcase": {
-      "badge": "Truist Card",
+      "badge": "Trust Card",
       "title": "A card built for",
       "titleHighlight": "how you live",
-      "subtitle": "Metal or virtual — the Truist card adapts to your lifestyle. No compromise. No fine print. Just seamless spending, everywhere.",
-      "cta": "Get Your Truist Card",
+      "subtitle": "Metal or virtual — the Trust card adapts to your lifestyle. No compromise. No fine print. Just seamless spending, everywhere.",
+      "cta": "Get Your Trust Card",
       "p1Text": "No monthly fees, ever",
       "p1Sub": "Keep every dollar you earn",
       "p2Text": "Up to 3% cash-back rewards",
@@ -457,23 +457,23 @@
       "title": "Real rates.",
       "titleHighlight": "Zero markup.",
       "liveLabel": "Live · Updated 3s ago",
-      "disclaimer": "Rates shown are indicative. Truist Bank Premium members receive the exact interbank rate with zero spread."
+      "disclaimer": "Rates shown are indicative. Trust Bank Premium members receive the exact interbank rate with zero spread."
     },
     "blog": {
       "badge": "Insights",
       "title": "From the",
-      "titleHighlight": "Truist Blog",
+      "titleHighlight": "Trust Blog",
       "viewAll": "View all articles",
       "p1Category": "Financial Tips",
       "p1Title": "The 50/30/20 Rule: How to Budget Like a Pro in 2026",
-      "p1Excerpt": "Break down your income the smart way. We walk you through how Truist Bank's AI automatically applies this rule to your spending — no spreadsheets needed.",
+      "p1Excerpt": "Break down your income the smart way. We walk you through how Trust Bank's AI automatically applies this rule to your spending — no spreadsheets needed.",
       "p1Author": "Mia Thornton",
       "p2Category": "Investing",
       "p2Title": "Why Dollar-Cost Averaging Beats Timing the Market Every Time",
-      "p2Excerpt": "Market timing is a myth. Here's the data-backed strategy that Truist Bank's investment engine uses to help your wealth grow consistently, regardless of volatility.",
+      "p2Excerpt": "Market timing is a myth. Here's the data-backed strategy that Trust Bank's investment engine uses to help your wealth grow consistently, regardless of volatility.",
       "p2Author": "Derek Lin",
       "p3Category": "Security",
-      "p3Title": "How Truist Bank's AI Stopped $18M in Fraud Last Month",
+      "p3Title": "How Trust Bank's AI Stopped $18M in Fraud Last Month",
       "p3Excerpt": "A deep dive into our real-time transaction monitoring system — how it works, what it catches, and how it keeps your money untouchable around the clock.",
       "p3Author": "Priya Nair"
     }

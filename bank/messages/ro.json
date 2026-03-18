@@ -1,5 +1,5 @@
 {
-  "app": {"name": "Truist Bank"},
+  "app": {"name": "Trust Bank"},
   "nav": {"features": "Caracteristici", "login": "Autentificare", "register": "Începe"},
   "landing": {
     "hero": {
@@ -35,7 +35,7 @@
     },
     "cta": {
       "title": "Gata să preiei controlul banilor tăi?",
-      "subtitle": "Alătură-te milioanelor care au încredere în Truist Bank cu finanțele lor",
+      "subtitle": "Alătură-te milioanelor care au încredere în Trust Bank cu finanțele lor",
       "button": "Creează Cont Gratuit"
     },
     "footer": {

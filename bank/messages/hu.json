@@ -1,5 +1,5 @@
 {
-  "app": {"name": "Truist Bank"},
+  "app": {"name": "Trust Bank"},
   "nav": {"features": "Funkciók", "login": "Bejelentkezés", "register": "Kezdés"},
   "landing": {
     "hero": {
@@ -35,7 +35,7 @@
     },
     "cta": {
       "title": "Készen áll átvenni az irányítást pénze felett?",
-      "subtitle": "Csatlakozzon a milliókhoz, akik a Truist Bankra bízzák pénzügyeiket",
+      "subtitle": "Csatlakozzon a milliókhoz, akik a Trust Bankra bízzák pénzügyeiket",
       "button": "Ingyenes Fiók Létrehozása"
     },
     "footer": {

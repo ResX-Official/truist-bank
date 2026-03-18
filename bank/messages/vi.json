@@ -1,5 +1,5 @@
 {
-  "app": {"name": "Truist Bank"},
+  "app": {"name": "Trust Bank"},
   "nav": {"features": "Tính năng", "login": "Đăng nhập", "register": "Bắt đầu"},
   "landing": {
     "hero": {
@@ -35,7 +35,7 @@
     },
     "cta": {
       "title": "Sẵn sàng kiểm soát tiền của bạn?",
-      "subtitle": "Tham gia hàng triệu người tin tưởng Truist Bank với tài chính của họ",
+      "subtitle": "Tham gia hàng triệu người tin tưởng Trust Bank với tài chính của họ",
       "button": "Tạo Tài Khoản Miễn Phí"
     },
     "footer": {

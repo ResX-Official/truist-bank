@@ -1,5 +1,5 @@
 {
-  "app": {"name": "Truist Bank"},
+  "app": {"name": "Trust Bank"},
   "nav": {"features": "Özellikler", "login": "Giriş Yap", "register": "Başla"},
   "landing": {
     "hero": {
@@ -35,7 +35,7 @@
     },
     "cta": {
       "title": "Paranızın kontrolünü almaya hazır mısınız?",
-      "subtitle": "Truist Bank'a finanslarını emanet eden milyonlara katılın",
+      "subtitle": "Trust Bank'a finanslarını emanet eden milyonlara katılın",
       "button": "Ücretsiz Hesap Oluştur"
     },
     "footer": {

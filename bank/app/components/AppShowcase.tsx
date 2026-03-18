@@ -53,7 +53,7 @@ export default function AppShowcase() {
             <span className="gradient-text">in your pocket</span>
           </h2>
           <p className="text-white/45 text-base leading-relaxed mb-10 max-w-[460px]">
-            Truist Bank puts your full financial picture in one place — accounts, transfers, cards, and investments, available the moment you sign in.
+            Trust Bank puts your full financial picture in one place — accounts, transfers, cards, and investments, available the moment you sign in.
           </p>
 
           <div className="space-y-5 mb-10">

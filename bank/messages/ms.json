@@ -1,5 +1,5 @@
 {
-  "app": {"name": "Truist Bank"},
+  "app": {"name": "Trust Bank"},
   "nav": {"features": "Ciri-ciri", "login": "Log Masuk", "register": "Mulakan"},
   "landing": {
     "hero": {
@@ -35,7 +35,7 @@
     },
     "cta": {
       "title": "Bersedia untuk mengawal wang anda?",
-      "subtitle": "Sertai jutaan yang mempercayai Truist Bank dengan kewangan mereka",
+      "subtitle": "Sertai jutaan yang mempercayai Trust Bank dengan kewangan mereka",
       "button": "Cipta Akaun Percuma"
     },
     "footer": {

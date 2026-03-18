@@ -1,5 +1,5 @@
 {
-  "app": {"name": "Truist Bank"},
+  "app": {"name": "Trust Bank"},
   "nav": {"features": "Ominaisuudet", "login": "Kirjaudu", "register": "Aloita"},
   "landing": {
     "hero": {
@@ -35,7 +35,7 @@
     },
     "cta": {
       "title": "Valmis ottamaan rahasi hallintaan?",
-      "subtitle": "Liity miljooniin, jotka luottavat Truist Bankiin taloutensa kanssa",
+      "subtitle": "Liity miljooniin, jotka luottavat Trust Bankiin taloutensa kanssa",
       "button": "Luo Ilmainen Tili"
     },
     "footer": {

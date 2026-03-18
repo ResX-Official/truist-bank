@@ -37,7 +37,7 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
             <div className="w-7 h-7 rounded-lg flex items-center justify-center" style={{ background: "linear-gradient(135deg,#1B5FBE,#4895EF)" }}>
               <Building2 size={14} className="text-white" />
             </div>
-            <span className="font-sora font-bold text-white text-sm">Truist Bank</span>
+            <span className="font-sora font-bold text-white text-sm">Trust Bank</span>
           </div>
           <LanguageSwitcher currentLocale={locale} />
         </header>

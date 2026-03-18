@@ -1,5 +1,5 @@
 {
-  "app": {"name": "Truist Bank"},
+  "app": {"name": "Trust Bank"},
   "nav": {"features": "Funkcje", "login": "Zaloguj się", "register": "Zacznij"},
   "landing": {
     "hero": {
@@ -35,7 +35,7 @@
     },
     "cta": {
       "title": "Gotowy przejąć kontrolę nad swoimi pieniędzmi?",
-      "subtitle": "Dołącz do milionów, którzy ufają Truist Bank swoimi finansami",
+      "subtitle": "Dołącz do milionów, którzy ufają Trust Bank swoimi finansami",
       "button": "Utwórz Darmowe Konto"
     },
     "footer": {

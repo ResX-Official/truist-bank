@@ -41,7 +41,7 @@ export default function DashboardSidebar({ onClose }: { onClose?: () => void }) 
           >
             <Building2 size={16} className="text-white" />
           </div>
-          <span className="font-sora font-bold text-white text-[15px]">Truist Bank</span>
+          <span className="font-sora font-bold text-white text-[15px]">Trust Bank</span>
         </Link>
       </div>
 

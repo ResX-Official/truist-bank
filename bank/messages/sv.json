@@ -1,5 +1,5 @@
 {
-  "app": {"name": "Truist Bank"},
+  "app": {"name": "Trust Bank"},
   "nav": {"features": "Funktioner", "login": "Logga in", "register": "Börja"},
   "landing": {
     "hero": {
@@ -35,7 +35,7 @@
     },
     "cta": {
       "title": "Redo att ta kontroll över dina pengar?",
-      "subtitle": "Gå med miljontals som litar på Truist Bank med sina finanser",
+      "subtitle": "Gå med miljontals som litar på Trust Bank med sina finanser",
       "button": "Skapa Gratis Konto"
     },
     "footer": {

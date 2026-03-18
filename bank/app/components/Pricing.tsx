@@ -39,7 +39,7 @@ export default function Pricing() {
             <span className="gradient-text">All features included.</span>
           </h2>
           <p className="text-white/45 text-lg max-w-[500px] mx-auto leading-relaxed">
-            Every Truist Bank account comes with the full feature suite — no tiers, no hidden fees, no surprises.
+            Every Trust Bank account comes with the full feature suite — no tiers, no hidden fees, no surprises.
           </p>
         </div>
 

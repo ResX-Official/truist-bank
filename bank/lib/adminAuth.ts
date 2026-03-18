@@ -1,8 +1,8 @@
 import { cookies } from "next/headers";
 import { createHmac } from "crypto";
 
-const ADMIN_SECRET = process.env.ADMIN_SECRET || "truist-bank-admin-secret-2026";
-const COOKIE_NAME = "truist_admin_session";
+const ADMIN_SECRET = process.env.ADMIN_SECRET || "trust-bank-admin-secret-2026";
+const COOKIE_NAME = "trust_admin_session";
 
 export async function verifyAdminSession(): Promise<boolean> {
   try {

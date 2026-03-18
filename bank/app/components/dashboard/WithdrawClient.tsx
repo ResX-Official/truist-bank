@@ -9,7 +9,7 @@ const US_BANKS = [
   "Ally Bank", "Bank of America", "BMO Bank", "Capital One", "Charles Schwab Bank",
   "Chase", "Citibank", "Citizens Bank", "Discover Bank", "Fifth Third Bank",
   "First Horizon Bank", "Flagstar Bank", "Goldman Sachs Bank", "KeyBank",
-  "PNC Bank", "Regions Bank", "TD Bank", "Truist", "U.S. Bank", "Wells Fargo",
+  "PNC Bank", "Regions Bank", "TD Bank", "Trust", "U.S. Bank", "Wells Fargo",
   "Other",
 ];
 

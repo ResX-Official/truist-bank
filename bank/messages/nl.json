@@ -1,5 +1,5 @@
 {
-  "app": {"name": "Truist Bank"},
+  "app": {"name": "Trust Bank"},
   "nav": {"features": "Functies", "login": "Inloggen", "register": "Beginnen"},
   "landing": {
     "hero": {
@@ -35,7 +35,7 @@
     },
     "cta": {
       "title": "Klaar om de controle over jouw geld te nemen?",
-      "subtitle": "Sluit je aan bij miljoenen die Truist Bank vertrouwen met hun financiën",
+      "subtitle": "Sluit je aan bij miljoenen die Trust Bank vertrouwen met hun financiën",
       "button": "Gratis Account Aanmaken"
     },
     "footer": {
