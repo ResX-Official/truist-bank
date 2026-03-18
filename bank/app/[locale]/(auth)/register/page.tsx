@@ -55,12 +55,8 @@ export default function RegisterPage() {
       return;
     }
 
-    // Ensure accounts exist (handles cases where trigger didn't fire)
-    try {
-      await ensureDefaultAccounts();
-    } catch {
-      // Non-fatal — accounts will be created on first dashboard visit
-    }
+    // Ensure accounts exist (fire-and-forget — non-fatal)
+    ensureDefaultAccounts().catch(() => {});
     setSuccess(true);
     setLoading(false);
     setTimeout(() => router.push(`/${locale}/dashboard`), 1500);
