@@ -1,6 +1,6 @@
 "use client";
 import { BarChart2, Users, CreditCard, ArrowDownToLine, MessageCircle, TrendingUp, CheckCircle, Clock } from "lucide-react";
-import { useAdminMenu } from "@/app/[locale]/admin/layout";
+import { useAdminMenu } from "@/app/components/admin/AdminMenuContext";
 
 interface Props {
   totalUsers: number;

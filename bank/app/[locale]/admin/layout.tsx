@@ -1,11 +1,8 @@
 "use client";
 import { useState } from "react";
-import { createContext, useContext } from "react";
 import { usePathname } from "next/navigation";
 import AdminSidebar from "@/app/components/admin/AdminSidebar";
-
-const AdminMenuContext = createContext<() => void>(() => {});
-export function useAdminMenu() { return useContext(AdminMenuContext); }
+import { AdminMenuContext } from "@/app/components/admin/AdminMenuContext";
 
 export default function AdminLayout({ children }: { children: React.ReactNode }) {
   const [sidebarOpen, setSidebarOpen] = useState(false);

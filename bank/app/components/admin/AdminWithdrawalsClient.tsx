@@ -4,7 +4,7 @@ import {
   ArrowDownToLine, Check, X, ChevronDown,
   Clock, CheckCircle, XCircle, RotateCcw, Send,
 } from "lucide-react";
-import { useAdminMenu } from "@/app/[locale]/admin/layout";
+import { useAdminMenu } from "@/app/components/admin/AdminMenuContext";
 import { adminApproveWithdrawal, adminRejectWithdrawal, adminProvideOTP } from "@/app/actions/admin";
 import type { WithdrawalRequest } from "@/lib/supabase/types";
 

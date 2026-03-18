@@ -1,7 +1,7 @@
 "use client";
 import { useState, useTransition } from "react";
 import { Search, Edit2, Check, X, Plus, Minus, Equal, UserX, UserCheck, CreditCard } from "lucide-react";
-import { useAdminMenu } from "@/app/[locale]/admin/layout";
+import { useAdminMenu } from "@/app/components/admin/AdminMenuContext";
 import { adminAdjustBalance, adminSuspendUser } from "@/app/actions/admin";
 
 interface UserWithData {

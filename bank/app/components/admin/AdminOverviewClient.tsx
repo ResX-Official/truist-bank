@@ -1,6 +1,6 @@
 "use client";
 import Link from "next/link";
-import { useAdminMenu } from "@/app/[locale]/admin/layout";
+import { useAdminMenu } from "@/app/components/admin/AdminMenuContext";
 import { Users, ArrowDownToLine, MessageCircle } from "lucide-react";
 import { useParams } from "next/navigation";
 
